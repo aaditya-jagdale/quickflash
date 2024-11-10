@@ -2,30 +2,29 @@ import 'package:flutter/material.dart';
 
 class AppColors {
 // Primary color shades - Base: #97F9F9
-static const Color primary100 = Color(0xFFDBFDFD); // +50% lighter
-static const Color primary200 = Color(0xFFC7FCFC); // +40% lighter
-static const Color primary300 = Color(0xFFB4FBFB); // +30% lighter
-static const Color primary400 = Color(0xFFA5FAFA); // +20% lighter
-static const Color primary500 = Color(0xFF9EF9F9); // +10% lighter
-static const Color primary600 = Color(0xFF97F9F9); // Base Color
-static const Color primary700 = Color(0xFF88E0E0); // 10% darker
-static const Color primary800 = Color(0xFF79C7C7); // 20% darker
-static const Color primary900 = Color(0xFF6AAEAE); // 30% darker
-static const Color primary1000 = Color(0xFF5B9595); // 40% darker
-static const Color primary1100 = Color(0xFF4C7C7C); // 50% darker
+  static const Color primary100 = Color(0xFFD9FFFF); // +50% lighter
+  static const Color primary200 = Color(0xFFCFFFFF); // +40% lighter
+  static const Color primary300 = Color(0xFFC2FFFF); // +30% lighter
+  static const Color primary400 = Color(0xFFB4FFFF); // +20% lighter
+  static const Color primary500 = Color(0xFFA6FCFC); // +10% lighter
+  static const Color primary600 = Color(0xFF97F9F9); // Base Color
+  static const Color primary700 = Color(0xFF8DECEC); // 10% darker
+  static const Color primary800 = Color(0xFF6FC7C7); // 20% darker
+  static const Color primary900 = Color(0xFF3E8B8C); // 30% darker
+  static const Color primary1000 = Color(0xFF004040); // 40% darker
 
 // Secondary color shades - Base: #22223B
-static const Color secondary100 = Color(0xFF9191AA); // +50% lighter
-static const Color secondary200 = Color(0xFF777790); // +40% lighter
-static const Color secondary300 = Color(0xFF5D5D76); // +30% lighter
-static const Color secondary400 = Color(0xFF43435C); // +20% lighter
-static const Color secondary500 = Color(0xFF2F2F48); // +10% lighter
-static const Color secondary600 = Color(0xFF22223B); // Base Color
-static const Color secondary700 = Color(0xFF1F1F35); // 10% darker
-static const Color secondary800 = Color(0xFF1B1B2F); // 20% darker
-static const Color secondary900 = Color(0xFF171729); // 30% darker
-static const Color secondary1000 = Color(0xFF131323); // 40% darker
-static const Color secondary1100 = Color(0xFF0F0F1D); // 50% darker
+  static const Color secondary100 = Color(0xFF9191AA); // +50% lighter
+  static const Color secondary200 = Color(0xFF777790); // +40% lighter
+  static const Color secondary300 = Color(0xFF5D5D76); // +30% lighter
+  static const Color secondary400 = Color(0xFF43435C); // +20% lighter
+  static const Color secondary500 = Color(0xFF2F2F48); // +10% lighter
+  static const Color secondary600 = Color(0xFF22223B); // Base Color
+  static const Color secondary700 = Color(0xFF1F1F35); // 10% darker
+  static const Color secondary800 = Color(0xFF1B1B2F); // 20% darker
+  static const Color secondary900 = Color(0xFF171729); // 30% darker
+  static const Color secondary1000 = Color(0xFF131323); // 40% darker
+  static const Color secondary1100 = Color(0xFF0F0F1D); // 50% darker
 
   // Black shades (from dark to light)
   static const Color black100 = Color(0xFF000000); // Black - main

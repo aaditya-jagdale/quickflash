@@ -1,4 +1,5 @@
 import 'package:ai_notes_taker/modules/home/widgets/home_category_tile.dart';
+import 'package:ai_notes_taker/modules/shared/widgets/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
